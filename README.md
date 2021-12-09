@@ -12,11 +12,9 @@ Project ini bernama Tea House
 
 Pengaplikasian Strategy Design Pattern :
 Tea House adalah sebuah toko yang menjual teh dengan komposisi boba didalamnya
-Terdapat 3 menu dalam project tea house, yaitu Black tea, White tea dan Green tea.
+Terdapat 2 menu dalam project tea house, yaitu Black tea dan Green tea.
 Menu Black tea akan dikomposisikan dengan boba, ice dan cream
 Harga Black tea adalah Rp. 40.000
-Menu White tea akan dikomposisikan dengan boba
-Harga White tea adalah Rp. 45.000
 Menu Green tea akan dikomposisikan dengan boba
 Harga Green tea adalah Rp. 50.000
 
